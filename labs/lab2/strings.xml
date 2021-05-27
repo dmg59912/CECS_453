@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">buttonWire</string>
+    <string name="login">btnLogin</string>
+</resources>
